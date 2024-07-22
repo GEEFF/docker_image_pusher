@@ -4,3 +4,15 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+redis:latest
+nginx:latest
+mysql:5.7
+rabbitmq:3.8-management
+mongo:4.4
+fastdfs:latest
+zookeeper:latest
+xxl-job-admin:2.1.2
+nacos:1.4.1
+portainer:latest
+skywalking-latest
+kafka:latest
