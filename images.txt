@@ -14,5 +14,4 @@ zookeeper:latest
 xxl-job-admin:2.1.2
 nacos:1.4.1
 portainer:latest
-skywalking-latest
 kafka:latest
